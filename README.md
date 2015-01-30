@@ -1,0 +1,2 @@
+# ReSharper
+R# extensions
